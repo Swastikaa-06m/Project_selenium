@@ -14,3 +14,6 @@ Thumbs.db
 
 # Test artifacts
 *.log
+
+# Local Selenium test credentials
+Swastika_Mondal_12023002001237/02_Capstone_Project/test_data/test_data.json

@@ -1,0 +1,13 @@
+{
+    "application": {
+        "url": "https://tutorialsninja.com/demo/"
+    },
+    "login": {
+        "email": "YOUR_REGISTERED_EMAIL",
+        "password": "YOUR_PASSWORD"
+    },
+    "product": {
+        "search_keyword": "Nikon",
+        "quantity": 2
+    }
+}
